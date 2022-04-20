@@ -1,0 +1,12 @@
+The robotics community has made impressive progress in recentyears.
+Reliable and in-expensive robot hardware—from land-based mobile robots, 
+to quadrotor helicopters, tohumanoids—is more widely available than ever before. 
+Perhaps even more impressively,the community has also developed algorithms that help those robots run with increasinglevels of autonomy.
+In spite of (or, some might argue, because of) this rapid progress, robots do still presentsome significant challenges for software developers. 
+This book introduces a software plat-form calledRobot Operating System, 
+orROS,1that is intended to ease some of these dif-ficulties. 
+The official description of ROS is:ROS is an open-source, meta-operating system for your robot.
+It provides theservices you would expect from an operating system, including hardware ab-straction, low-level device control, implementation of commonly-used func-tionality, 
+message-passing between processes, and packagemanagement.  
+It also provides tools and libraries for obtaining, building,writing, 
+and runningcode across multiple computers.

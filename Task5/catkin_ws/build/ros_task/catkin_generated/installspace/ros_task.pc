@@ -1,0 +1,8 @@
+prefix=/home/yehia/ROS_Course/Task5/catkin_ws/install
+
+Name: ros_task
+Description: Description of ros_task
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

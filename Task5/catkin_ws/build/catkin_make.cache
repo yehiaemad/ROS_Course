@@ -1,0 +1,2 @@
+ros_task
+-DCATKIN_DEVEL_PREFIX=/home/yehia/ROS_Course/Task5/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yehia/ROS_Course/Task5/catkin_ws/install -G Unix Makefiles
